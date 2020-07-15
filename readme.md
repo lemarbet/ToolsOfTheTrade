@@ -262,6 +262,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [HotJar](https://www.hotjar.com) | [@hotjar](https://twitter.com/hotjar) | Free - $29/mo (personal) | Records videos and collects heatmaps of your site visitor actions. |
 | [Wisdom](https://getWisdom.io) | [@wisdomCRM](https://twitter.com/WisdomCRM) | Free - $2000+/mo | Session Replay. Wisdom is the most accurate live visitor session recorder service available. Focusing only on session replay, Wisdom reconstructs a virtual desktop screen for every visitor, across all tabs, to capture the true feel of every visitor's experience. |
 | [LiveSession](https://livesession.io) | [@LiveSessionHQ](https://twitter.com/LiveSessionHQ) | $44+/mo| High-quality session replay analytics. |
+| [Plerdy](https://www.plerdy.com) | [@plerdy_com](https://twitter.com/plerdy_com) | Free, $29+/mo| Heatmaps & records videos session for deep analysis user experience. |
 
 ### HR
 
@@ -1015,6 +1016,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Moz](https://moz.com) | [@moz](https://twitter.com/moz) | $99/mo - $599/mo | Moz provides you all the tools you need to effectively do search engine optimization. On site optimization graders, competitor tracking, back link analysis, rank tracking and many more features available to users. |
 | [KWFinder](https://kwfinder.com/) | [@mangools_com](https://twitter.com/mangools_com) | $30+/mo | Keyword research tool |
 | [Animalz - Revive](https://revive.animalz.co/) | [@AnimalzCo](https://twitter.com/AnimalzCo) | Free | Provides a list of posts that should be refreshed. |
+| [Plerdy](https://www.plerdy.com) | [@plerdy_com](https://twitter.com/plerdy_com) | Free, $29+/mo| SEO-checker with API Google Search Console integrations for deep SEO analysis  pages and semantics. |
 
 ### API Builder
 
